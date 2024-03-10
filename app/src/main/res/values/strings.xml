@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChatB</string>
+    <string name="base_error">error</string>
+    <string name="send_msg">Message...</string>
+    <string name="available_regions">ai.google.dev/available_regions</string>
+    <string name="note_regions">Please note that the bot is currently available in selected regions \n</string>
+    <string name="info_title">Simple Chatbot powered by the Gemini API</string>
+    <string name="info_usage">To use the bot, please place your Gemini API key in the ChatData file</string>
+</resources>
